@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasiliyRybin
-- 👀 I’m interested in creating different programs to make some... Khm... Actions easier using this language
+- 👀 I’m interested in creating different programs to make some... Khm... Actions easier
 - 🌱 I’m currently learning C# (.NET)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Telegram - @grzegorz_brzeczyszczykiewicz6
