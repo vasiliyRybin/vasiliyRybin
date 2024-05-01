@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vasiliyRybin
 - 👀 I’m interested in creating different programs to make some... Khm... Actions easier
-- 🌱 I’m currently learning C# (.NET)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Telegram - @grzegorz_brzeczyszczykiewicz6
+- 🌱 I’m currently improving my skills more and more in C# (.NET)
+- 💞️ I’m looking to collaborate on any interesting project
+- 📫 How to reach me: Telegram - @BobrKurwaJaPerdole
 
 <!---
 vasiliyRybin/vasiliyRybin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
